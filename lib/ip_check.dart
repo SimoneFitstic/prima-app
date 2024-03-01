@@ -16,5 +16,5 @@ Future<Ip> getIp() async {
       postal: data['postal'],
       city: data['city']);
 
-  return resu;
+  return resu; 
 }
